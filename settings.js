@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919074692450"
-global.ownername = "Abhishek Suresh"
-global.ytname = "YT: Comedy Melody CH"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Kerala, Idukki"
+global.ownernomer = "27682833105"
+global.ownername = "Ace"
+global.ytname = "private"
+global.socialm = "GitHub: private"
+global.location = "Africa"
 
-global.ownernumber = '919074692450'  //creator number
-global.ownername = 'Abhishek Suresh' //owner name
-global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownernumber = '27766547202'  //creator number
+global.ownername = 'Ace' //owner name
+global.botname = 'Shadow' //name of the bot
 
 //sticker details
-global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
-global.author = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺 𝚂𝚄𝚁𝙴𝚂𝙷🍀'
+global.packname = 'Shadow'
+global.author = 'StanceGod🍀'
 
 //console view/theme
-global.themeemoji = '🎯'
+global.themeemoji = '🌹'
 global.wm = "©𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃"
 
 //theme link
-global.link = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.link = 'https://whatsapp.com/channel/0029VaeZQRw0wajmH2N2sN17'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
